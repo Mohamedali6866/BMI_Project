@@ -1,0 +1,15 @@
+{
+  "title_appbar": "BMI Calculator",
+  "weight": "Weight",
+  "height": "Height",
+  "age": "Age",
+  "Calculate": "Calculate",
+  "change_lang": "Change Language",
+  "female": "FEMALE",
+  "male": "MALE",
+  "result": "Your Result: ",
+  "UnderWeight": "You are underweight",
+  "Normal": "You have a normal weight",
+  "OverWeight": "You are overweight",
+  "Obese": "You are obese"
+}

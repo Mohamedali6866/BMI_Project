@@ -1,0 +1,15 @@
+{
+  "title_appbar": "حاسبة مؤشر كتلة الجسم",
+  "weight": "وزن",
+  "height": "طول",
+  "age": "عمر",
+  "calculate": "احسب",
+  "change_lang": "Change Language",
+  "female": "أنثى",
+  "male": "ذكر",
+  "result": "نتيجتك: ",
+  "UnderWeight": "أنت أقل من الوزن الطبيعي",
+  "Normal": "وزنك طبيعي",
+  "OverWeight": "أنت فوق الوزن الطبيعي",
+  "Obese": "أنت تعاني من السمنة"
+}
